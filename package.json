@@ -13,5 +13,14 @@
   },
   "dependencies": {
     "astro": "^6.0.4"
+  },
+  "license": "MIT",
+  "description": "A compact Astro landing page for inspir, the AI-first learning platform.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greatindiancompany/inspir-landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greatindiancompany/inspir-landing/issues"
   }
 }
